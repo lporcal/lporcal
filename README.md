@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @lporcal
-- 👀 I’m interested in tecnology in general and engineering
-- 🌱 I’m currently learning data analysis mainly and web design to a lesser extent
-- 💞️ I’m looking to collaborate with anyone who needs it, however I don't think I have enough knowledge in development yet.Respect to my business. I work independently in an process engineering company.
-- 📫 How to reach me: email: lucas.porcal@outlook.com or linkedin: https://www.linkedin.com/in/lucas-porcal-93868241
-- 😄 Pronouns: Lucas
-- Greetings!
+# 👋 Hola, soy Lucas Porcal
 
-<!---
-lporcal/lporcal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 **Ingeniero Químico** con más de 13 años de experiencia en procesos 
+industriales, producción y optimización en la industria de aceites, 
+grasas y biocombustibles.
+
+📊 En transición activa hacia el **Análisis de Datos**, combinando 
+conocimiento técnico industrial con herramientas modernas de BI y programación.
+
+## 🛠️ Herramientas
+`Python` `Power BI` `SQL` `Excel` `VBA` `MicroStrategy` `HTML/CSS` `JavaScript`
+
+## 🚀 Actualmente
+- Ingeniero de Procesos en **Aristeo Ingeniería**
+- Formándome como **Data Analyst** en Unicorn Academy
+- Desarrollando proyectos de análisis aplicados a entornos industriales reales
+
+## 📂 Portfolio
+👉 [lporcal.github.io](https://lporcal.github.io)
+
+## 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Porcal-blue)](https://linkedin.com/in/lucas-porcal)
